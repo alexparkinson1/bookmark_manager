@@ -1,2 +1,2 @@
-require './app/server'
+require './server'
 run BookmarkManager
